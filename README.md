@@ -83,12 +83,6 @@
   <p class="price">Цена: 12 000 000 руб.</p>
 </div>
 
-<style>
-  .price {
-    font-weight: bold;
-    color: #e8491d;
-  }
-</style>
   </div>
 
   <footer>
