@@ -64,7 +64,21 @@
       <img src="https://avatars.dzeninfra.ru/get-zen_doc/3940836/pub_60524a403eb679416854a721_60524c1057266c7ccd0cdf7a/scale_1200" alt="Audi A8">
       <p>Флагманский седан, предлагающий непревзойденный уровень роскоши и инноваций.</p>
     </div>
-    <!-- Добавьте больше автомобилей по аналогии -->
+    <div class="car">
+  <h2>Audi Q7</h2>
+  <img src="https://kuznitsaspb.ru/wp-content/uploads/9/c/c/9cca6e783b0db6b721934e271cb94894.jpeg" alt="Audi Q7">
+  <p>Превосходное сочетание роскоши и функциональности, делающее его идеальным выбором для семейного автомобиля.</p>
+</div>
+<div class="car">
+  <h2>Land Rover Discovery</h2>
+  <img src="https://a.d-cd.net/nSHQRXXakZCg_vHjXaU2Lkr7XKM-1920.jpg" alt="Land Rover Discovery">
+  <p>Отличный выбор для тех, кто ищет надежный и мощный внедорожник.</p>
+</div>
+<div class="car">
+  <h2>Porsche 911</h2>
+  <img src="http://carakoom.com/data/wall/787/612fb8c1_medium.jpg" alt="Porsche 911">
+  <p>Спортивный автомобиль, который олицетворяет скорость и стиль.</p>
+</div>
   </div>
 
   <footer>
