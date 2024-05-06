@@ -64,7 +64,6 @@
   </div>
 
   <footer>
-    <p>Авто Маркет &copy; 2024</p>
   </footer>
 </body>
 </html>
