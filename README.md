@@ -20,6 +20,9 @@
   .showcase { min-height: 400px; background: url('car-showcase.jpg') no-repeat 0 -400px; text-align: center; color: #ffffff; }
   .showcase h1 { margin-top: 100px; font-size: 55px; margin-bottom: 10px; }
   .showcase p { font-size: 20px; }
+  .car { margin: 20px 0; padding: 20px; background: #f4f4f4; }
+  .car img { width: 100%; height: auto; }
+  footer { background: #333333; color: white; text-align: center; padding: 10px; margin-top: 20px; }
 </style>
 </head>
 <body>
@@ -46,7 +49,22 @@
   </section>
 
   <div class="container">
-    <!-- Сюда можно добавить информацию о машинах и форму для связи -->
+    <div class="car">
+      <h2>BMW X6</h2>
+      <img src="https://hdpic.club/photo/uploads/posts/2023-12/1701575692_hdpic-club-p-chernaya-bmv-x6-60.jpg" alt="BMW X6">
+      <p>Этот роскошный кроссовер сочетает в себе стиль, мощность и комфорт.</p>
+    </div>
+    <div class="car">
+      <h2>Mercedes-Benz G-Class</h2>
+      <img src="https://sportishka.com/uploads/posts/2023-12/1701940330_sportishka-com-p-mersedes-dzhi-vkontakte-15.jpg" alt="Mercedes-Benz G-Class">
+      <p>Иконический внедорожник, который не уступает по проходимости и статусу.</p>
+    </div>
+    <div class="car">
+      <h2>Audi A8</h2>
+      <img src="https://avatars.dzeninfra.ru/get-zen_doc/3940836/pub_60524a403eb679416854a721_60524c1057266c7ccd0cdf7a/scale_1200" alt="Audi A8">
+      <p>Флагманский седан, предлагающий непревзойденный уровень роскоши и инноваций.</p>
+    </div>
+    <!-- Добавьте больше автомобилей по аналогии -->
   </div>
 
   <footer>
