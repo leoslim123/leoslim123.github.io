@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-</style>
 </head>
 <body>
   <header>
